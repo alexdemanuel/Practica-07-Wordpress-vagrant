@@ -1,0 +1,2 @@
+LABEL=clouding-rootnfst     /   ext4    defaults    0 0
+192.168.33.11:/var/www/html/wp-content /var/www/html/wp-content  nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
