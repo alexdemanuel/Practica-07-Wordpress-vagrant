@@ -1,8 +1,4 @@
 # Practica-07-Wordpress-vagrant
-
-# Practica-06-Balanceador
-
-
 # Creación de la máquina con vagrant
 
 - Inicializamos vagrant que nos creara un archivo `Vagrantfile`.
