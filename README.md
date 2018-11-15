@@ -154,7 +154,7 @@ sed -i "s/localhost/$DB_HOST/" wp-config.php
 ```
 
 
--Copiamos los archivos a /var/www/html
+- Copiamos los archivos a /var/www/html
 
 ```bash
 cp /tmp/wordpress/. /var/www/html/ -R
